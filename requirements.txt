@@ -1,0 +1,6 @@
+captum==0.7.0
+lief==0.13.0
+numpy==1.26.4
+pefile==2023.2.7
+pyelftools==0.31
+torch==2.0.1
