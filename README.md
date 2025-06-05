@@ -1,7 +1,7 @@
 # XAI-MalConv2
 
 IDA Pro Plugin to perform Malware detection using a MalConv2 model trained only on the executable part of the binary.
-The program add an explainability process, to show and rank functions of interest, i.e. with malicious behavior.
+The program add an explainability process, to show and classify interesting functions, i.e. with malicious behavior according to the model.
 
 This plugin is released within the following research: **"From Black Box to Clear Insights: Explainable AI in Malware Detection with MalConv2"**
 publicated at the [SSTIC conference (2025)](https://www.sstic.org/2025/presentation/from_black_box_to_clear_insights_explainable_ai_in_malware_detection_with_malconv2/).
